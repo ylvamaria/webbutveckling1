@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" type="text/css" href="stilmall.css" />
+
+ </head>
+ <body>
+<!-- Denna wrapper omsluter allt innehåll -->
+  <div id="wrapper">
+   <h1>UPPGIFT 1</h1>
+<!-- Den här texten handlar om mitt arbete som konstnär -->
+   <h2>About me</h2>
+    <p>I am Ylva Maria Thompson. I work as an artist, making body-casting, painting and graphic art. These are a few examples of things I make:</p>
+    <ul>
+	  <li>Lithographies</li>
+	  <li>Lino-cuts</li>
+	  <li>Silk-screen prints</li>
+	  <li>Portraits</li>
+	  <li>painting on canvas</li>
+	  <li>sculptures</li>
+	 </ul>
+	 <p><a href="https://www.ylva-art.com" target="_blank">Min hemsida</a></p>
+<!-- Den här delen av texten handlar om mitt arbete med vin och champagne -->
+   <h2>Champagnebutiken</h2>
+	  <p>I also work as an importer of wine and Champagne från France and Italy, I sell to bars and restaurants, but also directly to private consumers. 
+	Due to the laws regulating the sells of alcohol in Sweden, I started a company in Denmark to be able to sell directly to the consumers through a procedure called distance-selling.
+	This means that the goods is sent directly from a warehouse in Denmark to the consumers home adress. Alcohol tax and VAT is payed in Sweden.
+	These are the different types of wine you can buy from our Danish webshop:</p>
+	<ol>
+	  <li>White wine from Italy</li>
+	  <li>Red wine from Italy</li>
+	  <li>Champagne from the French Champagne region</li>
+	  <li>Ratafia from the French Champagne region</li>
+	  <li>Merchandise like stoppers, aprons, corkscrews, etc</li>
+	 <p><a href="http://butik.champagnebutiken.net" target="_blank">Champagnebutiken</a></p>
+<!-- Den här texten handlar om målet med mina studier -->
+   <h2>Målet med mina studier</h2>
+     <p>My goal with my studies is to get better at building websites to promote my work and my products.</p>
+	 <p>Since I haven't been studying for a very long time, my ambition is to get through this course and hopefully be able to continue studying Webbshop design. I aim for a D degree.</p> 
+ </body>
+</html>
+<a href="https://www.yonicasting.com/ "target="_blank">yonicasting</a>	

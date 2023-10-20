@@ -1,0 +1,9 @@
+De sju GDPR-principerna är: 
+
+   1 Lagenligt, rättvist och transparent 
+   2 Ändamålsbegränsning 
+   3 Uppgiftsminimering 
+   4 Riktighet 
+   5 Lagringsminimering 
+   6 Integritet och konfidentialitet 
+   7 Ansvarsskyldighet 
